@@ -32,3 +32,10 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+body {
+  margin: 0, 150;
+}
+.search-input {
+  background-color: red;
+}
